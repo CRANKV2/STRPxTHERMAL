@@ -1,3 +1,7 @@
+## ▌v1.0 [20005] HOTFIX▌
+- Removed .lib .lib64 
+- To avoid Bootloops on some Devices!
+------
 ## ▌v1.0 [20000] ▌
 - ▌Added 4 Thermal Profiles
 - ▌STOCK HEAT
