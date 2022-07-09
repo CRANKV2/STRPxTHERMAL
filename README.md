@@ -12,3 +12,6 @@
 - Latest Busybox/Brutal
 - Android 7.0+
 -------
+# Termux Menu
+
+- su -c THERMAL 
