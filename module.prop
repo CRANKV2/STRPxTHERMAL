@@ -1,0 +1,9 @@
+id=STRPxTHERMAL
+name=𝙎𝙏𝙍𝙋 𝙭 𝙏𝙃𝙀𝙍𝙈𝘼𝙇
+version=1.0
+versionCode=20000
+author=@CRANKV2
+description=▌STRPxTHERMAL Will Let U Change Ur Thermal State In 4 Diffrent Modes! ▌STOCK HEAT ▌LESS HEAT ▌MORE HEAT ▌DISABLE THERMAL ▌
+support=https://t.me/AndroidRootModulesCommunity
+minMagisk=20300
+updateJson=https://raw.githubusercontent.com/CRANKV2/STRPxTHERMAL/main/module.json
