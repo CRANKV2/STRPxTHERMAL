@@ -1,3 +1,9 @@
+# ▌ v1.1 [20006]
+- Reworked Script
+- Added new Configs to be more Stable and Powerfull in Performance
+- New Configs Autos working, no need to do anything.
+- Menu Features are now Optional!
+-------
 ## ▌v1.0 [20005] HOTFIX▌
 - Removed .lib .lib64 
 - To avoid Bootloops on some Devices!
